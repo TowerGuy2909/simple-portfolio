@@ -1,0 +1,87 @@
+body {
+
+background-image: url('../images/scratches.png');
+background-color: silver;
+}
+
+p {
+
+color: #777777;
+
+}
+h2 {
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.myName {
+
+/*float: left;*/
+padding-top: 1px;
+text-align: center;
+color: #ffffff;
+width: 300px;
+height: 75px;
+background-color: #4aaaa5;
+
+}
+
+.header {
+	position: fixed;
+	text-align: right;
+	background-color: #ffffff;
+	/*background-color: grey;*/
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 60px;
+	top: 0px;
+	width: 100%
+
+}
+
+.main-content {
+
+border: 1px ;
+float: left;
+width: 650px;
+border-color: #dddddd;
+background-color: #ffffff;
+padding: 10px;
+/*margin-right: 20px;*/
+
+}
+
+.happy-cat {
+
+float: left;
+margin: 20px;
+
+}
+
+.sidebar {
+
+text-align: center;
+float: right;
+background-color: #ffffff;
+/*height: 100px;*/
+width: 270px;
+
+}
+
+.Footer {
+	position: fixed;
+	border-top: 5px solid #4aaaa5;
+	text-align: center;
+	background-color: #666666;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	bottom: 0px;
+	width: 100%
+
+
+	
+
+}
+
+.entire-content{
+	/*width: 960px;*/
+}
